@@ -3,7 +3,7 @@
 var num1=31, num2=2;
 var multiply=num1 * num2;
 
-var random = Math.round(Math.random() * 10) + 1;
+var random = Math.ceil(Math.random() * 10);
 
 var num3=14,num4=5;
 var mod= num3 % num4;
